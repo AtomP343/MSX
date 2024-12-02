@@ -6332,3 +6332,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Dec2024 06:17:49.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Daneg32
 [02Dec2024 06:18:40.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Daneg32
 [02Dec2024 06:18:56.454] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Daneg32 has new faction level vampirism:vampire 2
+[02Dec2024 06:19:44.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 06:19:44.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 06:20:20.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[02Dec2024 06:20:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[02Dec2024 06:20:25.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[02Dec2024 06:20:25.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[02Dec2024 06:20:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 06:20:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 06:20:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 06:20:34.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 06:20:34.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 06:20:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 06:20:34.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 06:20:34.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 06:20:34.811] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

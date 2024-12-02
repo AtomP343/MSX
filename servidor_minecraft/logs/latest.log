@@ -2650,3 +2650,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Dec2024 06:17:12.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Daneg32
 [02Dec2024 06:17:49.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Daneg32
 [02Dec2024 06:18:40.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Daneg32
+[02Dec2024 06:20:20.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[02Dec2024 06:20:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[02Dec2024 06:20:25.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[02Dec2024 06:20:25.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[02Dec2024 06:20:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 06:20:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 06:20:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 06:20:34.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 06:20:34.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 06:20:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 06:20:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
