@@ -232,3 +232,104 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Dec2024 03:45:04.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16391a6b[id=<null>,name=Juan123,properties={},legacy=false] (/100.72.74.90:59422) lost connection: Disconnected
 [02Dec2024 03:45:39.841] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7740d1bb[id=<null>,name=Juan123,properties={},legacy=false] (/100.72.74.90:59436) lost connection: Disconnected
 [02Dec2024 03:46:03.691] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2313cb4c[id=<null>,name=Juan123,properties={},legacy=false] (/100.72.74.90:59466) lost connection: Disconnected
+[02Dec2024 03:46:42.649] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.650] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.650] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.650] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.651] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.651] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.651] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.651] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Dec2024 03:46:42.652] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.652] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.652] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Dec2024 03:46:42.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Dec2024 03:46:42.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Dec2024 03:46:42.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Dec2024 03:46:42.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.658] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.658] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.658] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.659] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.659] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.659] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.660] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:42.660] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 03:46:59.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.72.74.90:59485] logged in with entity id 841 at (-4.825705464221256, 73.0, 2.200943618583731)
+[02Dec2024 03:46:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[02Dec2024 03:46:59.172] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[02Dec2024 03:47:23.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=73, z=0}
+[02Dec2024 03:47:24.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=73, z=1}
+[02Dec2024 03:48:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 was blown up by Creeper
+[02Dec2024 03:49:03.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Stone Age]
+[02Dec2024 03:49:23.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[02Dec2024 03:49:24.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Getting an Upgrade]
+[02Dec2024 03:50:40.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Monster Hunter]
+[02Dec2024 03:50:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Stone Age]
+[02Dec2024 03:52:22.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Getting an Upgrade]
+[02Dec2024 03:53:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Stone Age]
+[02Dec2024 03:53:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Getting an Upgrade]
+[02Dec2024 03:54:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Monster Hunter]
+[02Dec2024 03:56:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to Juan123]
+[02Dec2024 03:56:13.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 fell from a high place
+[02Dec2024 03:56:47.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to Juan123]
+[02Dec2024 03:59:12.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.234] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.234] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.234] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:12.234] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 03:59:14.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Acquire Hardware]
+[02Dec2024 03:59:57.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 fell from a high place
+[02Dec2024 04:00:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Daneg32]
+[02Dec2024 04:02:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to Juan123]
+[02Dec2024 04:02:39.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to ceb736]
+[02Dec2024 04:04:54.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.404] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.404] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.404] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:04:54.404] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Dec2024 04:05:19.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]
+[02Dec2024 04:05:39.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Isn't It Iron Pick]
+[02Dec2024 04:09:59.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Daneg32]
+[02Dec2024 04:13:52.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Acquire Hardware]
+[02Dec2024 04:13:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Suit Up]
+[02Dec2024 04:14:20.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Isn't It Iron Pick]
+[02Dec2024 04:15:15.219] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[02Dec2024 04:15:15.314] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[02Dec2024 04:18:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Acquire Hardware]
+[02Dec2024 04:18:09.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Isn't It Iron Pick]
+[02Dec2024 04:19:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Vampire Diaries]
+[02Dec2024 04:21:00.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Not Today, Thank You]
+[02Dec2024 04:21:18.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Diamonds!]
+[02Dec2024 04:21:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[02Dec2024 04:21:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Alex's Caves]
+[02Dec2024 04:22:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Alex's Caves]
+[02Dec2024 04:22:04.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [It Belongs in a Museum]
+[02Dec2024 04:22:46.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Suit Up]
+[02Dec2024 04:23:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Not Today, Thank You]
+[02Dec2024 04:26:36.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Alex's Caves]
