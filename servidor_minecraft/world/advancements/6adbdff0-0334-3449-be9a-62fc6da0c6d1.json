@@ -1077,6 +1077,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 05:12:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-02 03:52:37 +0000"
@@ -1654,6 +1660,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-02 05:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-02 04:23:42 +0000"
@@ -2020,6 +2032,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-02 05:11:49 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_iron": "2024-12-02 04:18:01 +0000"
@@ -2137,6 +2155,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-02 04:47:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-02 05:11:49 +0000"
     },
     "done": true
   },
