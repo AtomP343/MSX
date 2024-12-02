@@ -333,3 +333,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Dec2024 04:22:46.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Suit Up]
 [02Dec2024 04:23:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Not Today, Thank You]
 [02Dec2024 04:26:36.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Alex's Caves]
+[02Dec2024 04:26:52.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[02Dec2024 04:27:11.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Monster Hunter]
+[02Dec2024 04:27:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [It Belongs in a Museum]
+[02Dec2024 04:30:24.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Lorem Ipsum]
+[02Dec2024 04:30:41.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Journey Begins]
+[02Dec2024 04:30:51.632] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -3493 -62 4620 in 2s
+[02Dec2024 04:35:30.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Diamonds!]
+[02Dec2024 04:39:38.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 burned to death
+[02Dec2024 04:39:46.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=74, z=-10}
+[02Dec2024 04:39:46.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=74, z=-10}
+[02Dec2024 04:40:06.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to ceb736]
+[02Dec2024 04:40:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was shot by Skeleton
+[02Dec2024 04:41:38.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to ceb736]
+[02Dec2024 04:42:14.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ceb736 has made the advancement [Bloody Stream]
+[02Dec2024 04:42:39.029] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[02Dec2024 04:42:39.030] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[02Dec2024 04:42:42.438] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[02Dec2024 04:42:42.460] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[02Dec2024 04:42:42.460] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[02Dec2024 04:42:42.461] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[02Dec2024 04:42:42.461] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[02Dec2024 04:43:12.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> tt
+[02Dec2024 04:48:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to ceb736]
+[02Dec2024 04:49:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[02Dec2024 04:50:39.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> n
+[02Dec2024 04:50:41.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> n
+[02Dec2024 04:50:42.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> n
+[02Dec2024 04:50:42.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> n
+[02Dec2024 04:50:43.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> h
+[02Dec2024 04:52:01.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [The Cutest Predator]
+[02Dec2024 04:53:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[02Dec2024 04:53:43.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Juan123]
+[02Dec2024 04:54:18.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Hot Stuff]
+[02Dec2024 04:55:59.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[02Dec2024 04:56:10.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported ceb736 to Juan123]
+[02Dec2024 04:58:05.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[02Dec2024 04:58:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
