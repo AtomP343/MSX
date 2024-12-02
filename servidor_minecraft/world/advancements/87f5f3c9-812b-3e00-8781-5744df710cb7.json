@@ -3712,6 +3712,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-02 05:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
     "criteria": {
       "has_diamond": "2024-12-02 05:32:51 +0000"
@@ -3721,6 +3727,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-02 05:41:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-02 05:47:05 +0000"
     },
     "done": true
   },
