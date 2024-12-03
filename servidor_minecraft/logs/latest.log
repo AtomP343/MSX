@@ -273,3 +273,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 20:33:09.435] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
 [03Dec2024 20:33:09.436] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
 [03Dec2024 21:02:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Song of the Dragons]
+[03Dec2024 21:23:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Postmortal]
