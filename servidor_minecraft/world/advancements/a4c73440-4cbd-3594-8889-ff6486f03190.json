@@ -3288,6 +3288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-03 04:55:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 04:13:15 +0000"
@@ -3360,6 +3366,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-03 04:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2024-12-03 05:03:21 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/combat/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2024-12-03 04:13:03 +0000"
@@ -3411,6 +3429,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-03 04:58:59 +0000"
     },
     "done": true
   },
@@ -3588,6 +3612,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-03 04:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-03 04:16:48 +0000"
@@ -3600,9 +3630,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2024-12-03 05:03:21 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-03 05:03:21 +0000"
     },
     "done": true
   },
@@ -3675,6 +3717,12 @@
   "vampirism:recipes/decorations/vampire/altar_infusion": {
     "criteria": {
       "has_gold": "2024-12-03 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-03 05:03:21 +0000"
     },
     "done": true
   },
@@ -3852,6 +3900,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2024-12-03 05:03:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2024-12-03 03:39:09 +0000"
@@ -3894,6 +3948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-03 04:54:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-03 04:05:55 +0000"
@@ -3933,6 +3993,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-03 04:54:30 +0000"
     },
     "done": true
   },

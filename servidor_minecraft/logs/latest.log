@@ -310,3 +310,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 04:50:50.066] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
 [03Dec2024 04:50:54.428] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
 [03Dec2024 04:50:54.433] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[03Dec2024 04:54:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Into Fire]
+[03Dec2024 04:58:31.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
+[03Dec2024 04:59:20.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was doomed to fall by Vampire Hunter, they gave up
