@@ -549,3 +549,5 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [03Dec2024 06:24:19.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 hit the ground too hard, they gave up
+[03Dec2024 06:28:53.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to Juan123]
+[03Dec2024 06:35:19.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> RT

@@ -22,12 +22,14 @@
       "minecraft:old_growth_pine_taiga": "2024-12-02 03:52:45 +0000",
       "minecraft:taiga": "2024-12-02 03:44:51 +0000",
       "minecraft:frozen_river": "2024-12-02 05:45:43 +0000",
+      "minecraft:windswept_hills": "2024-12-03 06:28:53 +0000",
       "minecraft:beach": "2024-12-02 06:04:44 +0000",
       "minecraft:dark_forest": "2024-12-02 03:56:11 +0000",
       "minecraft:river": "2024-12-03 06:22:09 +0000",
       "minecraft:snowy_plains": "2024-12-02 05:45:08 +0000",
       "minecraft:dripstone_caves": "2024-12-03 04:25:54 +0000",
       "minecraft:snowy_taiga": "2024-12-03 04:12:08 +0000",
+      "minecraft:swamp": "2024-12-03 06:31:04 +0000",
       "minecraft:cold_ocean": "2024-12-02 06:04:56 +0000",
       "minecraft:forest": "2024-12-02 05:42:39 +0000",
       "minecraft:lush_caves": "2024-12-02 03:59:57 +0000",
@@ -1005,6 +1007,7 @@
       "sweet_berries": "2024-12-02 03:56:53 +0000",
       "cooked_beef": "2024-12-02 04:42:40 +0000",
       "apple": "2024-12-02 04:02:08 +0000",
+      "mutton": "2024-12-03 06:26:00 +0000",
       "golden_apple": "2024-12-03 04:10:48 +0000",
       "rotten_flesh": "2024-12-02 03:57:32 +0000",
       "glow_berries": "2024-12-02 04:12:49 +0000"
@@ -3384,6 +3387,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2024-12-03 06:31:33 +0000"
     },
     "done": true
   },
