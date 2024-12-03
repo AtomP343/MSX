@@ -3318,6 +3318,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-03 05:07:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
@@ -3903,6 +3909,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2024-12-03 05:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-03 05:14:30 +0000"
     },
     "done": true
   },

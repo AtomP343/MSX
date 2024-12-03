@@ -313,3 +313,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 04:54:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Into Fire]
 [03Dec2024 04:58:31.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
 [03Dec2024 04:59:20.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was doomed to fall by Vampire Hunter, they gave up
+[03Dec2024 05:07:03.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Local Brewery]
+[03Dec2024 05:08:51.942] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Erich}[style={}] has been infected
+[03Dec2024 05:08:53.942] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Erich}[style={}] has been infected
+[03Dec2024 05:09:08.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Erich'/31921, l='ServerLevel[world]', x=-1184.42, y=34.00, z=2293.54] died, message: 'Erich was slain by Verim'
+[03Dec2024 05:09:08.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Erich'/31921, l='ServerLevel[world]', x=-1184.42, y=34.00, z=2293.54] died: Erich was slain by Verim
+[03Dec2024 05:11:00.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
+[03Dec2024 05:11:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
+[03Dec2024 05:14:30.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Zombie Doctor]
