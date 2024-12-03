@@ -25,6 +25,7 @@
       "minecraft:beach": "2024-12-02 06:04:44 +0000",
       "minecraft:dark_forest": "2024-12-02 03:56:11 +0000",
       "minecraft:snowy_plains": "2024-12-02 05:45:08 +0000",
+      "minecraft:dripstone_caves": "2024-12-03 04:25:54 +0000",
       "minecraft:snowy_taiga": "2024-12-03 04:12:08 +0000",
       "minecraft:cold_ocean": "2024-12-02 06:04:56 +0000",
       "minecraft:forest": "2024-12-02 05:42:39 +0000",
@@ -3287,6 +3288,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 04:13:15 +0000"
@@ -3383,6 +3390,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-12-03 04:05:55 +0000"
@@ -3401,9 +3414,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
     },
     "done": true
   },
@@ -3431,6 +3456,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_garlic": "2024-12-03 04:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2024-12-03 04:13:03 +0000"
@@ -3446,6 +3483,12 @@
   "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-03 04:20:08 +0000"
     },
     "done": true
   },
@@ -3491,6 +3534,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2024-12-03 04:13:03 +0000"
@@ -3524,6 +3573,12 @@
   "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-03 04:26:53 +0000"
     },
     "done": true
   },
@@ -3575,6 +3630,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
@@ -3596,6 +3657,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-03 04:26:13 +0000"
     },
     "done": true
   },
@@ -3629,6 +3696,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/combat/silver_boots": {
     "criteria": {
       "has_silver_ingot": "2024-12-03 04:13:03 +0000"
@@ -3650,6 +3723,12 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2024-12-03 04:13:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
     },
     "done": true
   },
@@ -3701,9 +3780,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_garlic": "2024-12-03 04:19:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-03 04:26:53 +0000"
     },
     "done": true
   },
@@ -3716,6 +3813,18 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-03 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-03 04:20:13 +0000"
     },
     "done": true
   },

@@ -279,3 +279,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 04:21:46.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
 [03Dec2024 04:23:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
 [03Dec2024 04:23:44.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
+[03Dec2024 04:24:46.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
+[03Dec2024 04:24:46.155] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 04:24:46.155] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Dec2024 04:24:46.156] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 04:24:46.156] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 04:24:46.156] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[03Dec2024 04:25:22.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Werewolf, they gave up
+[03Dec2024 04:26:53.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Chest Slayer]
+[03Dec2024 04:26:53.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Amateur Archaeologist]
