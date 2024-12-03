@@ -4688,6 +4688,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2024-12-03 21:13:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-03 20:37:30 +0000"
