@@ -274,3 +274,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 20:33:09.436] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
 [03Dec2024 21:02:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Song of the Dragons]
 [03Dec2024 21:23:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Postmortal]
+[03Dec2024 21:28:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Scuttler
+[03Dec2024 21:28:06.470] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 21:28:06.473] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[03Dec2024 21:28:06.474] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 21:28:06.475] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 21:28:06.475] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 7
+[03Dec2024 21:31:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Beast
+[03Dec2024 21:31:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Beast
+[03Dec2024 21:33:53.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
