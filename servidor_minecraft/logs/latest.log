@@ -267,3 +267,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 03:43:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Sweet Dreams]
 [03Dec2024 03:44:17.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
 [03Dec2024 03:46:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Rattlesnake, they gave up
+[03Dec2024 03:57:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Dread Scuttler, they gave up
+[03Dec2024 04:01:19.082] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[03Dec2024 04:01:20.468] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[03Dec2024 04:02:12.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 moved wrongly!
+[03Dec2024 04:02:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 walked into a cactus whilst trying to escape Ice Dragon
+[03Dec2024 04:07:33.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Minecraft Comes Alive]
+[03Dec2024 04:07:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Ice Bucket Challenge]

@@ -3255,6 +3255,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 04:07:52 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_brown_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
@@ -3279,6 +3285,18 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 04:05:53 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
@@ -3291,9 +3309,39 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-03 04:05:55 +0000"
     },
     "done": true
   },
@@ -3303,9 +3351,33 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-03 04:05:53 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2024-12-03 04:07:33 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-03 04:05:55 +0000"
     },
     "done": true
   },
@@ -3321,6 +3393,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 04:07:52 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
@@ -3333,9 +3411,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 04:05:53 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 04:07:52 +0000"
     },
     "done": true
   },
@@ -3345,15 +3435,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 04:07:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2024-12-03 03:39:09 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-03 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-03 04:05:55 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
     "criteria": {
       "has_coffin": "2024-12-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-03 03:52:14 +0000"
     },
     "done": true
   },
