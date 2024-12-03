@@ -265,3 +265,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 03:39:43.718] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Dec2024 03:39:43.719] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Dec2024 03:43:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Sweet Dreams]
+[03Dec2024 03:44:17.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Vampire Hunter
+[03Dec2024 03:46:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Rattlesnake, they gave up
