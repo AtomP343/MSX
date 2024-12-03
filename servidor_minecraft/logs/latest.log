@@ -283,3 +283,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Dec2024 21:31:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Beast
 [03Dec2024 21:31:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Beast
 [03Dec2024 21:33:53.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
+[03Dec2024 21:36:39.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
+[03Dec2024 21:37:14.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[03Dec2024 21:37:14.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[03Dec2024 21:37:52.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Dec2024 21:37:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Dec2024 21:37:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Dec2024 21:37:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Dec2024 21:37:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Dec2024 21:37:52.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Dec2024 21:37:52.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Dec2024 21:37:52.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Dec2024 21:37:52.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Dec2024 21:37:52.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
