@@ -5445,3 +5445,13 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [05Dec2024 05:12:15.101] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Daneg32 has new faction level vampirism:vampire 4
+[05Dec2024 05:13:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -3195.500000, 69.500000, 4416.500000]
+[05Dec2024 05:14:08.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Danica'/86031, l='ServerLevel[world]', x=-3197.56, y=71.01, z=4429.59] died, message: 'Danica was slain by Daneg32'
+[05Dec2024 05:14:08.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Danica'/86031, l='ServerLevel[world]', x=-3197.56, y=71.01, z=4429.59] died: Danica was slain by Daneg32
+[05Dec2024 05:15:49.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:15:49.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:16:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3575.500000, -8.500000, 4646.500000]
+[05Dec2024 05:16:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[05Dec2024 05:17:15.186] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vidosava}[style={}] has been infected
+[05Dec2024 05:20:49.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:20:49.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

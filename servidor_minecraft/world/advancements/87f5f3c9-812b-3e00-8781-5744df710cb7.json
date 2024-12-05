@@ -4911,6 +4911,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/decorations/vampire/coffin_brown_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
       "main": "2024-12-05 04:47:55 +0000"
@@ -4920,6 +4926,12 @@
   "alexscaves:alexscaves/resistor_shield": {
     "criteria": {
       "resistor_shield": "2024-12-05 04:58:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
     },
     "done": true
   },
@@ -4941,15 +4953,34 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2024-12-05 04:47:55 +0000"
+      "main": "2024-12-05 04:47:55 +0000",
+      "flower": "2024-12-05 05:11:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
     },
     "done": true
   },
@@ -4968,6 +4999,18 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-05 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
     },
     "done": true
   },
@@ -5007,6 +5050,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-05 03:24:46 +0000"
@@ -5031,6 +5086,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/magnet": {
     "criteria": {
       "scarlet": "2024-12-05 04:21:34 +0000"
@@ -5043,15 +5104,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-05 03:26:35 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2024-12-05 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
     },
     "done": true
   },
@@ -5076,6 +5155,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-12-05 04:15:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
     },
     "done": true
   },
@@ -5161,6 +5246,12 @@
     "criteria": {
       "scarlet": "2024-12-05 04:05:05 +0000",
       "azure": "2024-12-05 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
+    "criteria": {
+      "has_coffin": "2024-12-05 05:14:18 +0000"
     },
     "done": true
   },
