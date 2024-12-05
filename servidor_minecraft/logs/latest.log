@@ -492,3 +492,10 @@ java.lang.Throwable: null
 [05Dec2024 02:31:01.005] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
 [05Dec2024 02:31:01.005] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [05Dec2024 02:31:01.006] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[05Dec2024 02:42:00.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[05Dec2024 02:42:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[05Dec2024 02:51:32.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['De-Rong'/28595, l='ServerLevel[world]', x=-1017.06, y=66.00, z=1786.14] died, message: 'De-Rong was turned to ice by Ice Dragon'
+[05Dec2024 02:51:32.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['De-Rong'/28595, l='ServerLevel[world]', x=-1017.06, y=66.00, z=1786.14] died: De-Rong was turned to ice by Ice Dragon
+[05Dec2024 02:54:06.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died, message: 'Lei was turned to ice by Ice Dragon'
+[05Dec2024 02:54:06.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died: Lei was frozen by Ice Dragon
+[05Dec2024 02:57:34.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ri-Qi'/32015, l='ServerLevel[world]', x=-1063.08, y=68.00, z=1787.99] died, message: 'Ri-Qi suffocated in a wall'

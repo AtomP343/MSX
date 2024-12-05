@@ -4412,3 +4412,20 @@ java.lang.Throwable: null
 [05Dec2024 02:36:26.615] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity naturalist:lizard
 [05Dec2024 02:40:47.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 02:40:47.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:40:59.383] [Worker-Main-10/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 37.659s
+[05Dec2024 02:42:00.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[05Dec2024 02:42:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[05Dec2024 02:43:05.256] [Worker-Main-56/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 43.555s
+[05Dec2024 02:45:47.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:45:47.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:50:47.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:50:47.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:51:32.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['De-Rong'/28595, l='ServerLevel[world]', x=-1017.06, y=66.00, z=1786.14] died, message: 'De-Rong was turned to ice by Ice Dragon'
+[05Dec2024 02:51:32.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['De-Rong'/28595, l='ServerLevel[world]', x=-1017.06, y=66.00, z=1786.14] died: De-Rong was turned to ice by Ice Dragon
+[05Dec2024 02:54:06.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died, message: 'Lei was turned to ice by Ice Dragon'
+[05Dec2024 02:54:06.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died: Lei was frozen by Ice Dragon
+[05Dec2024 02:55:47.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:55:47.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:57:34.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ri-Qi'/32015, l='ServerLevel[world]', x=-1063.08, y=68.00, z=1787.99] died, message: 'Ri-Qi suffocated in a wall'
+[05Dec2024 03:00:47.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:00:47.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
