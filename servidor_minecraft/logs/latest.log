@@ -261,3 +261,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05Dec2024 00:57:46.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [05Dec2024 00:57:46.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [05Dec2024 00:57:46.057] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[05Dec2024 01:18:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
