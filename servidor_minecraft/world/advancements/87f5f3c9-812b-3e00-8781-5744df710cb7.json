@@ -5141,6 +5141,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hologram_projector": {
+    "criteria": {
+      "hologram_projector": "2024-12-05 05:43:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2024-12-05 03:17:32 +0000"
