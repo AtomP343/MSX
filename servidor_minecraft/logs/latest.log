@@ -838,3 +838,8 @@ java.lang.Throwable: null
 [05Dec2024 06:23:12.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jasmina'/97035, l='ServerLevel[world]', x=-3188.60, y=68.00, z=4348.19] died, message: 'Jasmina hit the ground too hard'
 [05Dec2024 06:24:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 fell from a high place, they gave up
 [05Dec2024 06:24:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 burned to ashes, they gave up
+[05Dec2024 06:29:37.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Iron Golem
+[05Dec2024 06:31:07.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned to stone by Daneg32
+[05Dec2024 06:33:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned into gorgonzola by Daneg32
+[05Dec2024 06:33:05.089] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Božena}[style={}] has been infected
+[05Dec2024 06:34:20.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3218.500000, 64.500000, 4347.500000]

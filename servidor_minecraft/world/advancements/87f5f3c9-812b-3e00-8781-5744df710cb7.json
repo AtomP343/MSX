@@ -4985,6 +4985,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-05 06:30:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-05 06:25:14 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
     "criteria": {
       "has_heart_striker": "2024-12-05 06:03:46 +0000"
@@ -5152,6 +5164,12 @@
   "alexscaves:alexscaves/hologram_projector": {
     "criteria": {
       "hologram_projector": "2024-12-05 05:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-05 06:25:14 +0000"
     },
     "done": true
   },
