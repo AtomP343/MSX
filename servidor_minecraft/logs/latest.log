@@ -530,3 +530,30 @@ java.lang.Throwable: null
 [05Dec2024 03:23:11.342] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
 [05Dec2024 03:27:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Siren
 [05Dec2024 03:30:33.153] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}
+[05Dec2024 03:36:45.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Once Upon a Cave]
+[05Dec2024 03:37:23.483] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3408, y=-67, z=4771} but found not block entity block Block{minecraft:air} at location
+[05Dec2024 03:37:23.483] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3408, y=-67, z=4771}
+[05Dec2024 03:37:27.624] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[05Dec2024 03:37:27.759] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[05Dec2024 03:37:27.759] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[05Dec2024 03:37:27.759] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[05Dec2024 03:37:33.351] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[05Dec2024 03:37:40.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 was kicked for floating too long!
+[05Dec2024 03:37:40.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Flying is not enabled on this server
+[05Dec2024 03:37:40.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[05Dec2024 03:37:46.644] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[05Dec2024 03:38:01.042] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.043] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.043] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.043] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[05Dec2024 03:38:01.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.92.215.125:54771] logged in with entity id 50792 at (-1234.8721284013016, -30.823240724935765, 1700.4466773395893)
+[05Dec2024 03:38:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
+[05Dec2024 03:38:01.829] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
+[05Dec2024 03:38:29.021] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[05Dec2024 03:38:34.305] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[05Dec2024 03:40:48.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Opposites Attract]
+[05Dec2024 03:41:55.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Lorem Ipsum]
