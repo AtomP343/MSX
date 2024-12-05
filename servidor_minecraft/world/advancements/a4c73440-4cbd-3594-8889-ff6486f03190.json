@@ -35,6 +35,7 @@
       "minecraft:lush_caves": "2024-12-02 03:59:57 +0000",
       "minecraft:ice_spikes": "2024-12-02 05:43:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-02 04:02:06 +0000",
+      "minecraft:flower_forest": "2024-12-05 05:26:04 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-02 05:35:59 +0000",
       "minecraft:meadow": "2024-12-05 04:27:44 +0000",
       "minecraft:plains": "2024-12-02 05:43:05 +0000"
@@ -4899,6 +4900,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-05 05:21:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-05 05:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-05 04:17:23 +0000"
@@ -4920,6 +4933,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-05 05:19:00 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2024-12-05 05:27:53 +0000"
     },
     "done": true
   },
