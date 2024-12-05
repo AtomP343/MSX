@@ -499,3 +499,21 @@ java.lang.Throwable: null
 [05Dec2024 02:54:06.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died, message: 'Lei was turned to ice by Ice Dragon'
 [05Dec2024 02:54:06.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died: Lei was frozen by Ice Dragon
 [05Dec2024 02:57:34.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ri-Qi'/32015, l='ServerLevel[world]', x=-1063.08, y=68.00, z=1787.99] died, message: 'Ri-Qi suffocated in a wall'
+[05Dec2024 03:06:12.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.72.74.90:51578] logged in with entity id 33843 at (-2333.376886455177, 76.0, 2655.180770857622)
+[05Dec2024 03:06:12.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[05Dec2024 03:06:12.940] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[05Dec2024 03:06:19.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> epa blandito
+[05Dec2024 03:06:44.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> volvi
+[05Dec2024 03:07:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> ya me hice mejoras de maleta
+[05Dec2024 03:07:06.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> cuales
+[05Dec2024 03:07:28.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> pues la mia es de diamante hace rato pero me hice la de horno y la de mesa de crafteo
+[05Dec2024 03:07:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ah
+[05Dec2024 03:07:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ps tengo lo mismo
+[05Dec2024 03:07:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> solo no el horno
+[05Dec2024 03:08:04.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> me mato una dragona de cueva
+[05Dec2024 03:08:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ish esos petan servers
+[05Dec2024 03:08:27.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> me volvio re mierda pero no lagueo tanto
+[05Dec2024 03:09:04.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> por que no esta en ds?
+[05Dec2024 03:10:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Sinister Solace, they gave up
+[05Dec2024 03:10:44.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ya ewntro
+[05Dec2024 03:10:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Vampire Diaries]

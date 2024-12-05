@@ -943,6 +943,7 @@
       "minecraft:skeleton": "2024-12-02 03:59:23 +0000",
       "minecraft:spider": "2024-12-02 05:21:05 +0000",
       "minecraft:witch": "2024-12-05 02:20:12 +0000",
+      "minecraft:cave_spider": "2024-12-05 03:03:52 +0000",
       "minecraft:enderman": "2024-12-02 04:31:35 +0000",
       "minecraft:stray": "2024-12-02 05:53:11 +0000",
       "minecraft:zombie": "2024-12-02 03:54:33 +0000"
@@ -4624,6 +4625,12 @@
   "minecraft:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-05 02:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-05 03:02:30 +0000"
     },
     "done": true
   },
