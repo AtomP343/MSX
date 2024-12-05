@@ -4918,6 +4918,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-05 05:37:57 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_magnetron": {
     "criteria": {
       "killed": "2024-12-05 04:13:16 +0000"

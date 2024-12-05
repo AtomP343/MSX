@@ -5469,3 +5469,32 @@ java.lang.Throwable: null
 [05Dec2024 05:31:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
 [05Dec2024 05:32:34.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
 [05Dec2024 05:32:53.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
+[05Dec2024 05:35:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3036.500000, 74.500000, 4372.500000]
+[05Dec2024 05:35:49.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:35:49.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:35:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3100.500000, 68.500000, 4350.500000]
+[05Dec2024 05:36:15.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was shot by Skeleton, they gave up
+[05Dec2024 05:36:16.967] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 1
+[05Dec2024 05:37:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
+[05Dec2024 05:37:38.787] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 1
+[05Dec2024 05:37:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3174.500000, 68.500000, 4383.500000]
+[05Dec2024 05:37:57.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Book of Monsters]
+[05Dec2024 05:37:59.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
+[05Dec2024 05:38:01.214] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 1
+[05Dec2024 05:38:12.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3170.500000, 68.500000, 4377.500000]
+[05Dec2024 05:38:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Iron Golem, they gave up
+[05Dec2024 05:38:33.306] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 1
+[05Dec2024 05:38:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Iron Golem, they gave up
+[05Dec2024 05:38:44.272] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 1
+[05Dec2024 05:38:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
+[05Dec2024 05:38:58.016] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 1
+[05Dec2024 05:39:24.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
+[05Dec2024 05:39:26.507] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 1
+[05Dec2024 05:39:57.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anka'/85913, l='ServerLevel[world]', x=-3188.02, y=47.00, z=4416.19] died, message: 'Anka hit the ground too hard whilst trying to escape Zombie'
+[05Dec2024 05:39:57.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anka'/85913, l='ServerLevel[world]', x=-3188.02, y=47.00, z=4416.19] died: Anka was doomed to fall by Zombie
+[05Dec2024 05:40:49.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:40:49.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:40:58.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3207.500000, 80.500000, 4433.500000]
+[05Dec2024 05:41:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2958.500000, 67.500000, 4402.500000]
+[05Dec2024 05:42:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3189.500000, 69.500000, 4386.500000]
+[05Dec2024 05:43:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [You Look Like a Good Joe]

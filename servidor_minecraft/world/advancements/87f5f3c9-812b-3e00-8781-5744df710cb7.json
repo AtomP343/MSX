@@ -5020,6 +5020,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-05 05:40:21 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/leather_from_obi_belt": {
     "criteria": {
       "has_obi_belt": "2024-12-05 05:20:56 +0000"
