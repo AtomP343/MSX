@@ -5526,3 +5526,20 @@ java.lang.Throwable: null
 [05Dec2024 06:00:49.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 06:02:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
 [05Dec2024 06:02:43.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[05Dec2024 06:05:49.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:05:49.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:06:14.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[05Dec2024 06:07:48.537] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 4
+[05Dec2024 06:08:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Bat Mode]
+[05Dec2024 06:09:22.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mandica'/99540, l='ServerLevel[world]', x=-3174.70, y=43.00, z=4395.49] died, message: 'Mandica was slain by Zombie'
+[05Dec2024 06:10:49.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:10:49.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:12:12.786] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Albin}[style={}] has been infected
+[05Dec2024 06:13:24.417] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Juan123'/33843, l='ServerLevel[world]', x=-3181.72, y=70.00, z=4341.75]
+[05Dec2024 06:13:24.443] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[05Dec2024 06:13:44.385] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 5
+[05Dec2024 06:13:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Blood Cult]
+[05Dec2024 06:13:54.976] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Daneg32'/53831, l='ServerLevel[world]', x=-3184.54, y=70.00, z=4341.71]
+[05Dec2024 06:13:54.987] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[05Dec2024 06:14:14.936] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Daneg32 has new faction level vampirism:vampire 5
+[05Dec2024 06:14:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Blood Cult]

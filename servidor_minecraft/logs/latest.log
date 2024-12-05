@@ -821,3 +821,9 @@ java.lang.Throwable: null
 [05Dec2024 05:57:59.735] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vidosava}[style={}] has been infected
 [05Dec2024 06:02:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
 [05Dec2024 06:02:43.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[05Dec2024 06:06:14.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[05Dec2024 06:08:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Bat Mode]
+[05Dec2024 06:09:22.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mandica'/99540, l='ServerLevel[world]', x=-3174.70, y=43.00, z=4395.49] died, message: 'Mandica was slain by Zombie'
+[05Dec2024 06:12:12.786] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Albin}[style={}] has been infected
+[05Dec2024 06:13:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Blood Cult]
+[05Dec2024 06:14:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Blood Cult]

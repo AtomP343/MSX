@@ -4984,6 +4984,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2024-12-05 06:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
@@ -5053,9 +5059,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2024-12-05 06:08:01 +0000",
       "main": "2024-12-05 04:47:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
