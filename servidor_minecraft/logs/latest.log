@@ -588,3 +588,29 @@ java.lang.Throwable: null
 [05Dec2024 04:10:38.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Magnetron
 [05Dec2024 04:10:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3572.500000, -30.500000, 4633.500000]
 [05Dec2024 04:11:55.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Publicity Stunt]
+[05Dec2024 04:12:59.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ferrouslime
+[05Dec2024 04:13:07.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3575.500000, -30.500000, 4652.500000]
+[05Dec2024 04:13:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Magnetron No More]
+[05Dec2024 04:13:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Ferrouslime
+[05Dec2024 04:13:35.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3572.500000, -34.500000, 4655.500000]
+[05Dec2024 04:13:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 blew up
+[05Dec2024 04:14:15.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Magnetron No More]
+[05Dec2024 04:17:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Magnetron
+[05Dec2024 04:17:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3542.500000, -41.500000, 4636.500000]
+[05Dec2024 04:17:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
+[05Dec2024 04:18:39.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Push and Pull]
+[05Dec2024 04:20:19.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [An Alloy To Remember]
+[05Dec2024 04:20:39.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Worthless]
+[05Dec2024 04:21:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Magnets, How Do They Work?]
+[05Dec2024 04:22:37.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
+[05Dec2024 04:22:38.375] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 04:22:38.375] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 19 is dual wielding: false
+[05Dec2024 04:22:38.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 04:22:38.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 04:22:38.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[05Dec2024 04:22:38.377] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 04:22:38.377] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 20 is dual wielding: false
+[05Dec2024 04:22:38.378] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 04:22:38.379] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 04:22:38.379] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[05Dec2024 04:22:45.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Teletor's Telecore]

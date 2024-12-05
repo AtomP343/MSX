@@ -4921,6 +4921,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2024-12-05 04:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
@@ -4948,6 +4954,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2024-12-05 04:14:15 +0000"
     },
     "done": true
   },
@@ -5005,9 +5017,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-05 04:15:46 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2024-12-05 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2024-12-05 04:20:39 +0000"
     },
     "done": true
   },
@@ -5020,6 +5044,12 @@
   "alexscaves:alexscaves/telecore": {
     "criteria": {
       "limestone": "2024-12-05 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-05 04:15:46 +0000"
     },
     "done": true
   },

@@ -4892,9 +4892,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-05 04:17:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2024-12-05 04:13:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2024-12-05 04:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-05 04:13:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_boundroid": {
     "criteria": {
       "killed": "2024-12-05 04:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-05 04:13:17 +0000"
     },
     "done": true
   },
@@ -4906,9 +4936,10 @@
   },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {
-      "scarlet": "2024-12-05 04:06:37 +0000"
+      "scarlet": "2024-12-05 04:06:37 +0000",
+      "azure": "2024-12-05 04:18:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
