@@ -4906,6 +4906,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/blood_cult": {
     "criteria": {
       "main": "2024-12-05 04:47:55 +0000",
@@ -4934,6 +4940,12 @@
   "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
     "criteria": {
       "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -4967,10 +4979,40 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "main": "2024-12-05 04:47:55 +0000",
       "flower": "2024-12-05 05:11:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -4992,6 +5034,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2024-12-05 06:25:14 +0000"
@@ -5004,9 +5064,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -5016,15 +5088,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-05 03:17:25 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
     "criteria": {
       "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -5052,9 +5142,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-05 07:00:18 +0000"
     },
     "done": true
   },
@@ -5071,6 +5173,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/bat": {
     "criteria": {
       "action": "2024-12-05 06:08:01 +0000",
@@ -5084,6 +5204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-05 07:00:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
     "criteria": {
       "has_coffin": "2024-12-05 05:14:18 +0000"
@@ -5093,6 +5219,12 @@
   "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
     "criteria": {
       "has_coffin": "2024-12-05 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -5126,6 +5258,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/magnet": {
     "criteria": {
       "scarlet": "2024-12-05 04:21:34 +0000"
@@ -5135,6 +5273,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-05 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -5174,6 +5318,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2024-12-05 06:18:53 +0000"
@@ -5183,6 +5333,12 @@
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2024-12-05 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-05 06:43:10 +0000"
     },
     "done": true
   },
@@ -5210,6 +5366,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/neodymium_ingot": {
     "criteria": {
       "azure": "2024-12-05 04:58:26 +0000"
@@ -5228,17 +5396,47 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2024-12-05 04:47:55 +0000"
     },
     "done": false
   },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/sniped": {
     "criteria": {
       "main": "2024-12-05 04:47:55 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
@@ -5249,6 +5447,12 @@
   "alexscaves:alexscaves/defeat_boundroid": {
     "criteria": {
       "killed": "2024-12-05 04:20:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -5267,6 +5471,12 @@
   "alexscaves:alexscaves/telecore": {
     "criteria": {
       "limestone": "2024-12-05 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
@@ -5300,6 +5510,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-05 03:25:22 +0000"
@@ -5312,10 +5528,28 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {
       "scarlet": "2024-12-05 04:05:05 +0000",
       "azure": "2024-12-05 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 06:52:04 +0000"
     },
     "done": true
   },
