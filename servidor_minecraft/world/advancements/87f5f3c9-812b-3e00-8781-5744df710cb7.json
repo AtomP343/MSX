@@ -4917,6 +4917,12 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2024-12-05 04:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-05 03:25:22 +0000"
@@ -5058,6 +5064,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-05 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2024-12-05 04:58:26 +0000"
     },
     "done": true
   },
