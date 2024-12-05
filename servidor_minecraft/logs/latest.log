@@ -930,3 +930,11 @@ java.lang.Throwable: null
 [05Dec2024 07:09:28.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Butcher'/109422, l='ServerLevel[world]', x=-3177.50, y=69.00, z=4344.79] died, message: 'Butcher was slain by Vampire Hunter'
 [05Dec2024 07:10:17.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/99127, l='ServerLevel[world]', x=-3185.36, y=68.00, z=4362.64] died, message: 'Farmer was slain by Vampire Hunter'
 [05Dec2024 07:10:20.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Butcher'/109796, l='ServerLevel[world]', x=-3184.78, y=69.00, z=4354.56] died, message: 'Butcher was slain by Vampire Hunter'
+[05Dec2024 07:18:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05Dec2024 07:18:21.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[05Dec2024 07:18:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[05Dec2024 07:23:31.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/107976, l='ServerLevel[world]', x=-3153.33, y=67.00, z=4356.55] died, message: 'Unemployed was slain by Iron Golem'
+[05Dec2024 07:23:34.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/99435, l='ServerLevel[world]', x=-3152.93, y=67.00, z=4356.51] died, message: 'Farmer was slain by Iron Golem'
+[05Dec2024 07:23:35.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/117065, l='ServerLevel[world]', x=-3152.69, y=67.00, z=4356.51] died, message: 'Unemployed was slain by Iron Golem'
+[05Dec2024 07:25:10.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
+[05Dec2024 07:25:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game

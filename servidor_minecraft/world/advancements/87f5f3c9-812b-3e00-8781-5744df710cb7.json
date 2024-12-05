@@ -335,6 +335,7 @@
       "golden_apple": "2024-12-02 04:39:34 +0000",
       "rotten_flesh": "2024-12-02 04:40:29 +0000",
       "glow_berries": "2024-12-02 04:21:41 +0000",
+      "cooked_rabbit": "2024-12-05 07:12:04 +0000",
       "cooked_chicken": "2024-12-02 04:34:56 +0000",
       "cod": "2024-12-05 03:25:25 +0000",
       "carrot": "2024-12-02 04:14:07 +0000"
@@ -5124,6 +5125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-05 07:11:51 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
     "criteria": {
       "has_coffin": "2024-12-05 05:14:18 +0000"
@@ -5513,6 +5520,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-05 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-05 07:11:51 +0000"
     },
     "done": true
   },
