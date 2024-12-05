@@ -4907,9 +4907,10 @@
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
-      "main": "2024-12-05 04:47:55 +0000"
+      "main": "2024-12-05 04:47:55 +0000",
+      "flower": "2024-12-05 06:13:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/decorations/vampire/coffin_brown_from_white": {
     "criteria": {
@@ -5151,6 +5152,12 @@
   "alexscaves:alexscaves/hologram_projector": {
     "criteria": {
       "hologram_projector": "2024-12-05 05:43:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-05 06:18:53 +0000"
     },
     "done": true
   },

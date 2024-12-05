@@ -2413,9 +2413,10 @@
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
-      "main": "2024-12-02 05:16:31 +0000"
+      "main": "2024-12-02 05:16:31 +0000",
+      "flower": "2024-12-05 06:14:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
@@ -4894,6 +4895,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-05 06:15:21 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2024-12-05 04:01:08 +0000"
@@ -4936,9 +4943,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-05 06:19:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-05 04:17:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2024-12-05 06:15:21 +0000"
     },
     "done": true
   },
@@ -4960,6 +4979,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2024-12-05 06:15:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2024-12-05 06:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-05 06:02:12 +0000"
@@ -4978,6 +5009,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-05 06:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-05 05:19:00 +0000"
@@ -4993,6 +5030,12 @@
   "mca:hunted": {
     "criteria": {
       "iron": "2024-12-05 05:27:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-05 06:20:13 +0000"
     },
     "done": true
   },
@@ -5023,6 +5066,12 @@
   "alexscaves:alexscaves/defeat_boundroid": {
     "criteria": {
       "killed": "2024-12-05 04:04:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2024-12-05 06:15:21 +0000"
     },
     "done": true
   },

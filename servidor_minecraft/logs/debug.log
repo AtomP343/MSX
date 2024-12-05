@@ -5543,3 +5543,21 @@ java.lang.Throwable: null
 [05Dec2024 06:13:54.987] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
 [05Dec2024 06:14:14.936] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Daneg32 has new faction level vampirism:vampire 5
 [05Dec2024 06:14:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Blood Cult]
+[05Dec2024 06:15:49.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:15:49.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:18:23.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> r
+[05Dec2024 06:18:53.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Splintering II]
+[05Dec2024 06:19:07.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [You Monster...]
+[05Dec2024 06:20:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05Dec2024 06:20:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Splintering II]
+[05Dec2024 06:20:49.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:20:49.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:20:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05Dec2024 06:21:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was killed by Juan123 using magic, they gave up
+[05Dec2024 06:21:11.746] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Daneg32 has new faction level vampirism:vampire 5
+[05Dec2024 06:21:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
+[05Dec2024 06:23:12.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jasmina'/97035, l='ServerLevel[world]', x=-3188.60, y=68.00, z=4348.19] died, message: 'Jasmina hit the ground too hard'
+[05Dec2024 06:24:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 fell from a high place, they gave up
+[05Dec2024 06:24:02.114] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Daneg32 has new faction level vampirism:vampire 5
+[05Dec2024 06:24:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 burned to ashes, they gave up
+[05Dec2024 06:24:20.944] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Juan123 has new faction level vampirism:vampire 5
