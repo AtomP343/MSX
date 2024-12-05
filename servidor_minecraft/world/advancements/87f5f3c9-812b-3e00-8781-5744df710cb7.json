@@ -5171,6 +5171,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-05 05:51:56 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/neodymium_ingot": {
     "criteria": {
       "azure": "2024-12-05 04:58:26 +0000"

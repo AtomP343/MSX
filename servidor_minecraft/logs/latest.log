@@ -817,3 +817,7 @@ java.lang.Throwable: null
 [05Dec2024 05:50:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3171.500000, 68.500000, 4377.500000]
 [05Dec2024 05:51:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [What a Deal!]
 [05Dec2024 05:52:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[05Dec2024 05:55:52.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 suffocated in a wall
+[05Dec2024 05:57:59.735] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vidosava}[style={}] has been infected
+[05Dec2024 06:02:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[05Dec2024 06:02:43.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
