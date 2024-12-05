@@ -1111,7 +1111,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2024-12-02 04:43:18 +0000",
-      "sweet_berries": "2024-12-02 04:07:30 +0000"
+      "sweet_berries": "2024-12-02 04:07:30 +0000",
+      "carrot": "2024-12-05 06:32:39 +0000"
     },
     "done": false
   },
@@ -4907,6 +4908,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-05 06:32:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-05 05:21:59 +0000"
@@ -4916,6 +4929,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2024-12-05 05:54:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:32:30 +0000"
     },
     "done": true
   },
@@ -4931,9 +4950,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:32:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2024-12-05 05:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:32:30 +0000"
     },
     "done": true
   },
@@ -5003,6 +5034,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:32:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-05 05:41:13 +0000"
@@ -5015,9 +5052,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-05 06:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-05 05:19:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:32:30 +0000"
     },
     "done": true
   },
@@ -5036,6 +5085,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2024-12-05 06:20:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:32:30 +0000"
     },
     "done": true
   },
@@ -5087,6 +5142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-05 06:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-12-05 04:13:17 +0000"
@@ -5108,6 +5169,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2024-12-05 04:55:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:30:52 +0000"
     },
     "done": true
   },
