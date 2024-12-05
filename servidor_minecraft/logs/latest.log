@@ -566,3 +566,11 @@ java.lang.Throwable: null
 [05Dec2024 03:47:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
 [05Dec2024 03:47:34.777] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
 [05Dec2024 03:51:44.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
+[05Dec2024 03:53:46.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
+[05Dec2024 03:55:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Teletor
+[05Dec2024 03:55:50.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3555.500000, 68.500000, 4646.500000]
+[05Dec2024 03:59:41.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3575.500000, -8.500000, 4646.500000]
+[05Dec2024 04:00:24.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Teletor
+[05Dec2024 04:00:24.784] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
+[05Dec2024 04:00:36.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3584.500000, -18.500000, 4613.500000]
+[05Dec2024 04:01:08.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Publicity Stunt]
