@@ -36,6 +36,7 @@
       "minecraft:ice_spikes": "2024-12-02 05:43:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-02 04:02:06 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-02 05:35:59 +0000",
+      "minecraft:meadow": "2024-12-05 04:27:44 +0000",
       "minecraft:plains": "2024-12-02 05:43:05 +0000"
     },
     "done": false
@@ -4886,6 +4887,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2024-12-05 04:48:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2024-12-05 04:01:08 +0000"
@@ -4919,6 +4926,12 @@
   "alexscaves:alexscaves/defeat_boundroid": {
     "criteria": {
       "killed": "2024-12-05 04:04:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2024-12-05 04:22:45 +0000"
     },
     "done": true
   },
