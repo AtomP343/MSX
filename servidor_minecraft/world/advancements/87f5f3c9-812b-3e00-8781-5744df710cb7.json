@@ -5017,6 +5017,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2024-12-05 04:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-05 03:25:22 +0000"
@@ -5038,6 +5044,13 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2024-12-05 04:05:05 +0000",
+      "azure": "2024-12-05 04:03:26 +0000"
     },
     "done": true
   },
