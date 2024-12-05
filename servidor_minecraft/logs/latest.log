@@ -486,3 +486,9 @@ java.lang.Throwable: null
 [05Dec2024 02:04:47.902] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
 [05Dec2024 02:08:08.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Qiu-Lin'/20377, l='ServerLevel[world]', x=-1093.65, y=54.00, z=1796.61] died, message: 'Qiu-Lin was slain by Troll'
 [05Dec2024 02:08:08.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Qiu-Lin'/20377, l='ServerLevel[world]', x=-1093.65, y=54.00, z=1796.61] died: Qiu-Lin was slain by Troll
+[05Dec2024 02:31:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned to ice by Ice Dragon
+[05Dec2024 02:31:00.996] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 02:31:00.998] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[05Dec2024 02:31:01.005] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[05Dec2024 02:31:01.005] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 02:31:01.006] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
