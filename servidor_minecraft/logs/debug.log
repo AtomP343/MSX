@@ -3712,3 +3712,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05Dec2024 01:20:39.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 01:25:39.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 01:25:39.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:30:39.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:30:39.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:33:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Knight
+[05Dec2024 01:34:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Hot Stuff]
+[05Dec2024 01:34:57.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Lava Bucket] to Juan123]
+[05Dec2024 01:35:39.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:35:39.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:35:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Scuttler
+[05Dec2024 01:38:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 tried to swim in lava to escape Dread Knight
+[05Dec2024 01:38:42.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
+[05Dec2024 01:38:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
+[05Dec2024 01:39:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
+[05Dec2024 01:39:12.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
+[05Dec2024 01:39:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
+[05Dec2024 01:39:24.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2335, y=67, z=2680}
