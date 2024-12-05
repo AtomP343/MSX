@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-02 03:48:31 +0000",
       "minecraft:taiga": "2024-12-01 17:53:01 +0000",
+      "minecraft:deep_ocean": "2024-12-05 03:17:18 +0000",
       "minecraft:frozen_river": "2024-12-02 05:25:33 +0000",
       "minecraft:birch_forest": "2024-12-02 04:10:02 +0000",
       "minecraft:windswept_hills": "2024-12-03 06:10:41 +0000",
@@ -330,6 +331,7 @@
       "rotten_flesh": "2024-12-02 04:40:29 +0000",
       "glow_berries": "2024-12-02 04:21:41 +0000",
       "cooked_chicken": "2024-12-02 04:34:56 +0000",
+      "cod": "2024-12-05 03:25:25 +0000",
       "carrot": "2024-12-02 04:14:07 +0000"
     },
     "done": false
@@ -772,7 +774,8 @@
       "minecraft:enderman": "2024-12-02 03:50:40 +0000",
       "minecraft:stray": "2024-12-02 05:44:38 +0000",
       "minecraft:vex": "2024-12-03 19:50:58 +0000",
-      "minecraft:zombie": "2024-12-02 04:33:50 +0000"
+      "minecraft:zombie": "2024-12-02 04:33:50 +0000",
+      "minecraft:drowned": "2024-12-05 03:22:42 +0000"
     },
     "done": false
   },
@@ -4901,6 +4904,132 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2024-12-05 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-05 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-05 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-05 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-05 03:24:46 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2024-12-05 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-05 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-05 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-05 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-05 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-05 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-05 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-05 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-05 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-05 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 03:24:57 +0000"
     },
     "done": true
   },

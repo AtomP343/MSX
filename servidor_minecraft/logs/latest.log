@@ -517,3 +517,16 @@ java.lang.Throwable: null
 [05Dec2024 03:10:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Sinister Solace, they gave up
 [05Dec2024 03:10:44.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ya ewntro
 [05Dec2024 03:10:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Vampire Diaries]
+[05Dec2024 03:17:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Tie me to the Mast]
+[05Dec2024 03:22:03.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.37742141431863274
+[05Dec2024 03:22:03.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.5757379636206679
+[05Dec2024 03:22:03.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.3292949693773153
+[05Dec2024 03:22:03.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.551739171621648
+[05Dec2024 03:23:11.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was impaled by Drowned
+[05Dec2024 03:23:11.339] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 03:23:11.339] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 28 is dual wielding: false
+[05Dec2024 03:23:11.340] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 03:23:11.342] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 03:23:11.342] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[05Dec2024 03:27:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Siren
+[05Dec2024 03:30:33.153] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}

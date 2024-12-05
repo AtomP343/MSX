@@ -4659,3 +4659,33 @@ java.lang.Throwable: null
 [05Dec2024 03:10:47.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 03:10:47.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 03:10:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Vampire Diaries]
+[05Dec2024 03:13:01.613] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity naturalist:rattlesnake
+[05Dec2024 03:14:41.089] [Worker-Main-56/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 2.388s
+[05Dec2024 03:15:47.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:15:47.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:16:12.947] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[05Dec2024 03:16:32.425] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[05Dec2024 03:17:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Tie me to the Mast]
+[05Dec2024 03:17:35.627] [Worker-Main-56/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Dec2024 03:17:35.633] [Worker-Main-56/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Dec2024 03:20:33.478] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[05Dec2024 03:20:47.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:20:47.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:21:32.462] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity naturalist:finch
+[05Dec2024 03:22:03.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.37742141431863274
+[05Dec2024 03:22:03.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.5757379636206679
+[05Dec2024 03:22:03.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.3292949693773153
+[05Dec2024 03:22:03.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.551739171621648
+[05Dec2024 03:23:11.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was impaled by Drowned
+[05Dec2024 03:23:11.339] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 03:23:11.339] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 28 is dual wielding: false
+[05Dec2024 03:23:11.340] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 03:23:11.342] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 03:23:11.342] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[05Dec2024 03:25:47.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:25:47.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:27:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Siren
+[05Dec2024 03:29:59.895] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[05Dec2024 03:30:33.153] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}
+[05Dec2024 03:30:47.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:30:47.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
