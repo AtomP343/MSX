@@ -3807,3 +3807,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 06:21:35.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Cover Me with Diamonds]
 [13Dec2024 06:24:40.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 06:24:40.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 06:26:01.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was killed
+[13Dec2024 06:26:01.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Daneg32
+[13Dec2024 06:26:22.912] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Daneg32 has new faction level vampirism:vampire 5
+[13Dec2024 06:29:40.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:29:40.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 06:34:40.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:34:40.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
