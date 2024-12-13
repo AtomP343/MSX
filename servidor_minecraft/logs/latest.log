@@ -264,3 +264,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 04:27:38.431] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [13Dec2024 04:27:38.431] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [13Dec2024 04:30:35.888] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[13Dec2024 04:34:07.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/82, l='ServerLevel[world]', x=-3174.34, y=68.56, z=4384.47] died, message: 'Unemployed was slain by Daneg32'
+[13Dec2024 04:43:25.111] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Pero}[style={}] has been infected
