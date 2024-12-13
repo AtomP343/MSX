@@ -278,3 +278,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 05:27:26.849] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -13182 -56 -2262 in 3s
 [13Dec2024 05:39:34.029] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -1451 -58 12436 in 2s
 [13Dec2024 05:49:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [They Have a Cave Troll!]
+[13Dec2024 05:58:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -3154.500000, 53.500000, 4394.500000]
+[13Dec2024 06:02:22.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/16377, l='ServerLevel[world]', x=-3178.92, y=70.00, z=4323.00] died, message: 'Unemployed was slain by Iron Golem'
