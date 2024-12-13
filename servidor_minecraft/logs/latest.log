@@ -1,123 +1,125 @@
-[05Dec2024 00:49:35.013] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[05Dec2024 00:49:35.019] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Dec2024 00:49:40.784] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Dec2024 00:49:40.795] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[05Dec2024 00:49:40.796] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MSX/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar%23136!/
-[05Dec2024 00:49:40.803] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MSX/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar
-[05Dec2024 00:49:40.806] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[05Dec2024 00:49:40.986] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Dec2024 00:49:41.032] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[05Dec2024 00:49:41.664] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 00:49:41.723] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 00:49:41.800] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 00:49:41.801] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 00:49:42.183] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[05Dec2024 00:49:42.981] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[05Dec2024 00:49:42.995] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[05Dec2024 00:49:43.920] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[05Dec2024 00:49:45.155] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Dec2024 00:49:45.386] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[05Dec2024 00:49:45.388] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Dec2024 00:49:45.445] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 00:49:47.474] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[05Dec2024 00:49:47.475] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[05Dec2024 00:49:47.475] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[05Dec2024 00:49:47.479] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[05Dec2024 00:49:47.479] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[05Dec2024 00:49:47.479] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[05Dec2024 00:49:47.480] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[05Dec2024 00:49:47.480] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[05Dec2024 00:49:47.890] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[05Dec2024 00:49:55.866] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in werewolves.mixins.json:MobEffectInstanceAccessor, previously written by de.teamlapen.vampirism.mixin.MixinMobEffectInstance. Skipping method.
-[05Dec2024 00:49:57.649] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[05Dec2024 00:49:58.064] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Dec2024 00:49:58.065] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[05Dec2024 00:49:58.069] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[05Dec2024 00:49:58.071] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[05Dec2024 00:49:58.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[05Dec2024 00:49:58.077] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[05Dec2024 00:49:58.078] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[05Dec2024 00:49:58.080] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[05Dec2024 00:49:58.648] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[05Dec2024 00:49:59.017] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Dec2024 00:49:59.018] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Dec2024 00:49:59.209] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[05Dec2024 00:50:06.149] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
-[05Dec2024 00:50:06.149] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
-[05Dec2024 00:50:06.149] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
-[05Dec2024 00:50:06.149] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
-[05Dec2024 00:50:06.150] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
-[05Dec2024 00:50:06.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.860] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.860] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.860] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.860] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.860] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.861] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.861] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:50:06.863] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.863] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.863] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.863] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.864] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.864] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.864] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.864] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.864] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.864] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.865] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.865] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:50:06.865] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.871] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.872] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:50:06.872] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.872] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:50:06.873] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:50:06.873] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.873] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.874] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.874] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.874] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.877] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.882] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.883] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.884] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.885] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.885] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:50:06.892] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:50:06.977] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[05Dec2024 00:50:07.138] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[05Dec2024 00:50:07.166] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[05Dec2024 00:50:07.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[05Dec2024 00:50:07.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.23 Target: null
-[05Dec2024 00:50:07.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[05Dec2024 00:50:07.968] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[05Dec2024 00:50:08.004] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[05Dec2024 00:50:08.004] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[05Dec2024 00:50:08.010] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[05Dec2024 00:50:08.011] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[05Dec2024 00:50:08.112] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Dec2024 00:50:08.133] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Dec2024 00:50:08.137] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Dec2024 00:50:08.138] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[05Dec2024 00:50:08.139] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[05Dec2024 00:50:08.140] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[05Dec2024 00:50:08.158] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[05Dec2024 00:50:08.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
-[05Dec2024 00:50:08.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[05Dec2024 00:50:08.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[05Dec2024 00:50:08.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
-[05Dec2024 00:50:08.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: OUTDATED Current: 1.10.10 Target: 1.10.11
-[05Dec2024 00:50:08.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Dec2024 00:50:08.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[05Dec2024 00:50:11.251] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Dec2024 00:50:13.510] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
-[05Dec2024 00:50:13.511] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
-[05Dec2024 00:50:14.770] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[05Dec2024 00:50:15.013] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
-[05Dec2024 00:50:16.994] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[05Dec2024 00:50:17.065] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[05Dec2024 00:50:17.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+[13Dec2024 03:12:52.526] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[13Dec2024 03:12:52.531] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[13Dec2024 03:12:53.338] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Dec2024 03:12:53.349] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[13Dec2024 03:12:53.350] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MSX/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar%23136!/
+[13Dec2024 03:12:53.355] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MSX/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar
+[13Dec2024 03:12:53.356] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[13Dec2024 03:12:53.417] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Dec2024 03:12:53.426] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[13Dec2024 03:12:53.677] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 03:12:53.680] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 03:12:53.681] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 03:12:53.683] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 03:12:53.863] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[13Dec2024 03:12:54.368] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[13Dec2024 03:12:54.377] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[13Dec2024 03:12:55.011] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[13Dec2024 03:12:55.795] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Dec2024 03:12:55.893] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[13Dec2024 03:12:55.895] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[13Dec2024 03:12:55.919] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Dec2024 03:12:57.339] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[13Dec2024 03:12:57.340] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[13Dec2024 03:12:57.340] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[13Dec2024 03:12:57.345] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[13Dec2024 03:12:57.345] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[13Dec2024 03:12:57.346] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[13Dec2024 03:12:57.347] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[13Dec2024 03:12:57.347] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[13Dec2024 03:12:57.447] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13Dec2024 03:13:03.490] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in werewolves.mixins.json:MobEffectInstanceAccessor, previously written by de.teamlapen.vampirism.mixin.MixinMobEffectInstance. Skipping method.
+[13Dec2024 03:13:04.936] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[13Dec2024 03:13:05.232] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[13Dec2024 03:13:05.234] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[13Dec2024 03:13:05.236] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[13Dec2024 03:13:05.237] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[13Dec2024 03:13:05.238] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[13Dec2024 03:13:05.240] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[13Dec2024 03:13:05.241] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[13Dec2024 03:13:05.242] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[13Dec2024 03:13:05.735] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[13Dec2024 03:13:06.004] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Dec2024 03:13:06.009] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Dec2024 03:13:06.124] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[13Dec2024 03:13:11.412] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
+[13Dec2024 03:13:11.413] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
+[13Dec2024 03:13:11.413] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
+[13Dec2024 03:13:11.413] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
+[13Dec2024 03:13:11.413] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
+[13Dec2024 03:13:11.910] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.911] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.911] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.911] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.912] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.912] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.912] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.912] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[13Dec2024 03:13:11.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[13Dec2024 03:13:11.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[13Dec2024 03:13:11.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[13Dec2024 03:13:11.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[13Dec2024 03:13:11.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.922] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.923] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.928] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:13:11.931] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[13Dec2024 03:13:11.997] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[13Dec2024 03:13:11.998] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[13Dec2024 03:13:12.001] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[13Dec2024 03:13:12.088] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[13Dec2024 03:13:12.096] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[13Dec2024 03:13:12.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[13Dec2024 03:13:12.795] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[13Dec2024 03:13:12.814] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Dec2024 03:13:12.814] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[13Dec2024 03:13:12.815] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Dec2024 03:13:12.816] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[13Dec2024 03:13:12.891] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[13Dec2024 03:13:12.910] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[13Dec2024 03:13:12.915] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[13Dec2024 03:13:12.917] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[13Dec2024 03:13:12.917] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[13Dec2024 03:13:12.918] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[13Dec2024 03:13:12.933] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[13Dec2024 03:13:13.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.23 Target: null
+[13Dec2024 03:13:13.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[13Dec2024 03:13:13.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
+[13Dec2024 03:13:13.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[13Dec2024 03:13:13.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[13Dec2024 03:13:13.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[13Dec2024 03:13:13.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: OUTDATED Current: 1.10.10 Target: 1.10.11
+[13Dec2024 03:13:13.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Dec2024 03:13:13.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[13Dec2024 03:13:15.708] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Dec2024 03:13:17.460] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[13Dec2024 03:13:17.461] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[13Dec2024 03:13:18.629] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[13Dec2024 03:13:18.731] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[13Dec2024 03:13:20.139] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[13Dec2024 03:13:20.200] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[13Dec2024 03:13:20.226] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -144,7 +146,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 00:50:17.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+[13Dec2024 03:13:20.231] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -171,770 +173,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 00:50:17.133] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[05Dec2024 00:50:17.148] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
-[05Dec2024 00:50:17.191] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[05Dec2024 00:50:17.339] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[05Dec2024 00:50:17.390] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[05Dec2024 00:50:17.399] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[05Dec2024 00:50:17.489] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3456 advancements
-[05Dec2024 00:50:17.529] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[05Dec2024 00:50:17.537] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[05Dec2024 00:50:17.690] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 82 skill nodes
-[05Dec2024 00:50:17.697] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
-[05Dec2024 00:50:19.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Dec2024 00:50:19.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Dec2024 00:50:19.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Dec2024 00:50:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Dec2024 00:50:19.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Dec2024 00:50:19.978] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Dec2024 00:50:20.065] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Dec2024 00:50:20.066] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Dec2024 00:50:20.066] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Dec2024 00:50:20.067] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Dec2024 00:50:20.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Dec2024 00:50:21.197] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
-[05Dec2024 00:50:28.265] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
-[05Dec2024 00:50:28.289] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
-[05Dec2024 00:50:28.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Dec2024 00:50:29.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:29.761] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:29.763] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:29.797] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:30.606] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:30.836] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:31.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:31.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:32.594] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:32.866] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:33.296] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:33.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:34.301] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:34.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 00:50:35.297] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[05Dec2024 00:50:35.798] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[05Dec2024 00:50:36.296] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[05Dec2024 00:50:36.580] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8285 ms
-[05Dec2024 00:50:36.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.494s)! For help, type "help"
-[05Dec2024 00:50:36.662] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Dec2024 00:50:36.669] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[05Dec2024 00:50:36.670] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[05Dec2024 00:50:36.728] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 60125 bytes (in 7 string chunks with the size of 10000)
-[05Dec2024 00:52:51.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.72.74.90:52626] logged in with entity id 51 at (-2329.7257773670294, 69.5625, 2680.8209959799437)
-[05Dec2024 00:52:51.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
-[05Dec2024 00:52:52.043] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
-[05Dec2024 00:52:54.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
-[05Dec2024 00:57:46.044] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.045] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.046] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.046] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.046] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.047] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.047] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.047] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:57:46.048] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.048] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.048] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.049] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.049] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.049] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:57:46.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:57:46.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.053] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:57:46.053] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[05Dec2024 00:57:46.053] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.054] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.054] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.054] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.055] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.055] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.055] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 00:57:46.057] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[05Dec2024 01:18:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
-[05Dec2024 01:33:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Knight
-[05Dec2024 01:34:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Hot Stuff]
-[05Dec2024 01:34:57.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Lava Bucket] to Juan123]
-[05Dec2024 01:35:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Scuttler
-[05Dec2024 01:38:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 tried to swim in lava to escape Dread Knight
-[05Dec2024 01:38:42.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
-[05Dec2024 01:38:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
-[05Dec2024 01:39:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
-[05Dec2024 01:39:12.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
-[05Dec2024 01:39:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Ghoul
-[05Dec2024 01:39:24.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2335, y=67, z=2680}
-[05Dec2024 01:40:33.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Knight
-[05Dec2024 01:40:47.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
-[05Dec2024 01:43:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
-[05Dec2024 01:45:40.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Dread Scuttler
-[05Dec2024 01:45:42.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
-[05Dec2024 01:45:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
-[05Dec2024 01:45:42.829] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[05Dec2024 01:47:47.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.92.215.125:52908] logged in with entity id 9774 at (-951.9647528011076, 65.0, 2182.4848212110646)
-[05Dec2024 01:47:47.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
-[05Dec2024 01:47:47.838] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
-[05Dec2024 01:55:14.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was frozen to death by Stray
-[05Dec2024 01:55:34.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.72.74.90:51040] logged in with entity id 12119 at (-2338.6499204146016, 75.0, 2647.9420392576017)
-[05Dec2024 01:55:34.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
-[05Dec2024 01:55:34.172] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
-[05Dec2024 01:55:35.255] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Juan123'/12119, l='ServerLevel[world]', x=-2338.65, y=75.00, z=2647.94, removed=KILLED]
-[05Dec2024 01:56:03.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[05Dec2024 01:56:19.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Frostmaw, they gave up
-[05Dec2024 01:56:49.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 did not like the sun
-[05Dec2024 01:56:49.856] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:57:19.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was pushed into the sun by Frostmaw
-[05Dec2024 01:57:19.406] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:57:45.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was pushed into the sun by Frostmaw
-[05Dec2024 01:57:45.408] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:58:11.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[05Dec2024 01:58:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was pushed into the sun by Ice Dragon
-[05Dec2024 01:58:34.965] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:58:34.967] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:58:34.968] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:58:34.969] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:58:34.970] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 01:59:11.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Ice Dragon, they gave up
-[05Dec2024 01:59:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
-[05Dec2024 01:59:45.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
-[05Dec2024 02:00:17.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[05Dec2024 02:00:45.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned to ice by Ice Dragon
-[05Dec2024 02:04:12.747] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
-[05Dec2024 02:04:14.727] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
-[05Dec2024 02:04:47.642] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
-[05Dec2024 02:04:47.644] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
-[05Dec2024 02:04:47.645] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
-[05Dec2024 02:04:47.645] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
-[05Dec2024 02:04:47.899] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
-[05Dec2024 02:04:47.902] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
-[05Dec2024 02:08:08.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Qiu-Lin'/20377, l='ServerLevel[world]', x=-1093.65, y=54.00, z=1796.61] died, message: 'Qiu-Lin was slain by Troll'
-[05Dec2024 02:08:08.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Qiu-Lin'/20377, l='ServerLevel[world]', x=-1093.65, y=54.00, z=1796.61] died: Qiu-Lin was slain by Troll
-[05Dec2024 02:31:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned to ice by Ice Dragon
-[05Dec2024 02:31:00.996] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[05Dec2024 02:31:00.998] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
-[05Dec2024 02:31:01.005] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
-[05Dec2024 02:31:01.005] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[05Dec2024 02:31:01.006] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
-[05Dec2024 02:42:00.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
-[05Dec2024 02:42:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
-[05Dec2024 02:51:32.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['De-Rong'/28595, l='ServerLevel[world]', x=-1017.06, y=66.00, z=1786.14] died, message: 'De-Rong was turned to ice by Ice Dragon'
-[05Dec2024 02:51:32.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['De-Rong'/28595, l='ServerLevel[world]', x=-1017.06, y=66.00, z=1786.14] died: De-Rong was turned to ice by Ice Dragon
-[05Dec2024 02:54:06.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died, message: 'Lei was turned to ice by Ice Dragon'
-[05Dec2024 02:54:06.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lei'/28620, l='ServerLevel[world]', x=-1096.81, y=53.00, z=1795.12] died: Lei was frozen by Ice Dragon
-[05Dec2024 02:57:34.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ri-Qi'/32015, l='ServerLevel[world]', x=-1063.08, y=68.00, z=1787.99] died, message: 'Ri-Qi suffocated in a wall'
-[05Dec2024 03:06:12.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.72.74.90:51578] logged in with entity id 33843 at (-2333.376886455177, 76.0, 2655.180770857622)
-[05Dec2024 03:06:12.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
-[05Dec2024 03:06:12.940] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
-[05Dec2024 03:06:19.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> epa blandito
-[05Dec2024 03:06:44.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> volvi
-[05Dec2024 03:07:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> ya me hice mejoras de maleta
-[05Dec2024 03:07:06.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> cuales
-[05Dec2024 03:07:28.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> pues la mia es de diamante hace rato pero me hice la de horno y la de mesa de crafteo
-[05Dec2024 03:07:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ah
-[05Dec2024 03:07:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ps tengo lo mismo
-[05Dec2024 03:07:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> solo no el horno
-[05Dec2024 03:08:04.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> me mato una dragona de cueva
-[05Dec2024 03:08:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ish esos petan servers
-[05Dec2024 03:08:27.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> me volvio re mierda pero no lagueo tanto
-[05Dec2024 03:09:04.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> por que no esta en ds?
-[05Dec2024 03:10:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Sinister Solace, they gave up
-[05Dec2024 03:10:44.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ya ewntro
-[05Dec2024 03:10:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Vampire Diaries]
-[05Dec2024 03:17:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Tie me to the Mast]
-[05Dec2024 03:22:03.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.37742141431863274
-[05Dec2024 03:22:03.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.5757379636206679
-[05Dec2024 03:22:03.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.3292949693773153
-[05Dec2024 03:22:03.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.551739171621648
-[05Dec2024 03:23:11.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was impaled by Drowned
-[05Dec2024 03:23:11.339] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[05Dec2024 03:23:11.339] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 28 is dual wielding: false
-[05Dec2024 03:23:11.340] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[05Dec2024 03:23:11.342] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[05Dec2024 03:23:11.342] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
-[05Dec2024 03:27:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Siren
-[05Dec2024 03:30:33.153] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}
-[05Dec2024 03:36:45.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Once Upon a Cave]
-[05Dec2024 03:37:23.483] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3408, y=-67, z=4771} but found not block entity block Block{minecraft:air} at location
-[05Dec2024 03:37:23.483] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3408, y=-67, z=4771}
-[05Dec2024 03:37:27.624] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
-[05Dec2024 03:37:27.759] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
-[05Dec2024 03:37:27.759] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
-[05Dec2024 03:37:27.759] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
-[05Dec2024 03:37:33.351] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
-[05Dec2024 03:37:40.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 was kicked for floating too long!
-[05Dec2024 03:37:40.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Flying is not enabled on this server
-[05Dec2024 03:37:40.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
-[05Dec2024 03:37:46.644] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
-[05Dec2024 03:38:01.042] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.043] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.043] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.043] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[05Dec2024 03:38:01.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.92.215.125:54771] logged in with entity id 50792 at (-1234.8721284013016, -30.823240724935765, 1700.4466773395893)
-[05Dec2024 03:38:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
-[05Dec2024 03:38:01.829] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
-[05Dec2024 03:38:29.021] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
-[05Dec2024 03:38:34.305] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
-[05Dec2024 03:40:48.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Opposites Attract]
-[05Dec2024 03:41:55.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Lorem Ipsum]
-[05Dec2024 03:46:14.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Daneg32 to Juan123]
-[05Dec2024 03:46:15.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Opposites Attract]
-[05Dec2024 03:46:34.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Timed out
-[05Dec2024 03:46:34.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
-[05Dec2024 03:47:10.394] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@474a74d8[id=<null>,name=Daneg32,properties={},legacy=false] (/100.92.215.125:54931) lost connection: Timed out
-[05Dec2024 03:47:34.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daneg32[/100.92.215.125:54952] logged in with entity id 53831 at (-3572.339798822021, 3.0, 4647.574066435699)
-[05Dec2024 03:47:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 joined the game
-[05Dec2024 03:47:34.777] [Server thread/INFO] [Jade/]: Syncing config to Daneg32 (a4c73440-4cbd-3594-8889-ff6486f03190)
-[05Dec2024 03:51:44.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
-[05Dec2024 03:53:46.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
-[05Dec2024 03:55:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was slain by Teletor
-[05Dec2024 03:55:50.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3555.500000, 68.500000, 4646.500000]
-[05Dec2024 03:59:41.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3575.500000, -8.500000, 4646.500000]
-[05Dec2024 04:00:24.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Teletor
-[05Dec2024 04:00:24.784] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
-[05Dec2024 04:00:36.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3584.500000, -18.500000, 4613.500000]
-[05Dec2024 04:01:08.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Publicity Stunt]
-[05Dec2024 04:03:49.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 suffocated in a wall whilst fighting Skeleton
-[05Dec2024 04:03:57.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3577.500000, -26.500000, 4612.500000]
-[05Dec2024 04:04:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Worthless]
-[05Dec2024 04:04:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 suffocated in a wall whilst fighting Skeleton
-[05Dec2024 04:04:27.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
-[05Dec2024 04:04:33.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3577.500000, -26.500000, 4612.500000]
-[05Dec2024 04:05:05.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Push and Pull]
-[05Dec2024 04:05:21.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
-[05Dec2024 04:05:47.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Teletor's Telecore]
-[05Dec2024 04:06:06.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall
-[05Dec2024 04:06:14.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3577.500000, -26.500000, 4612.500000]
-[05Dec2024 04:10:38.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Magnetron
-[05Dec2024 04:10:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3572.500000, -30.500000, 4633.500000]
-[05Dec2024 04:11:55.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Publicity Stunt]
-[05Dec2024 04:12:59.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ferrouslime
-[05Dec2024 04:13:07.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3575.500000, -30.500000, 4652.500000]
-[05Dec2024 04:13:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has reached the goal [Magnetron No More]
-[05Dec2024 04:13:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Ferrouslime
-[05Dec2024 04:13:35.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3572.500000, -34.500000, 4655.500000]
-[05Dec2024 04:13:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 blew up
-[05Dec2024 04:14:15.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Magnetron No More]
-[05Dec2024 04:17:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was doomed to fall by Magnetron
-[05Dec2024 04:17:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3542.500000, -41.500000, 4636.500000]
-[05Dec2024 04:17:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
-[05Dec2024 04:18:39.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Push and Pull]
-[05Dec2024 04:20:19.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [An Alloy To Remember]
-[05Dec2024 04:20:39.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Worthless]
-[05Dec2024 04:21:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Magnets, How Do They Work?]
-[05Dec2024 04:22:37.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
-[05Dec2024 04:22:38.375] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[05Dec2024 04:22:38.375] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 19 is dual wielding: false
-[05Dec2024 04:22:38.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[05Dec2024 04:22:38.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[05Dec2024 04:22:38.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
-[05Dec2024 04:22:38.377] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[05Dec2024 04:22:38.377] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 20 is dual wielding: false
-[05Dec2024 04:22:38.378] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[05Dec2024 04:22:38.379] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[05Dec2024 04:22:38.379] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
-[05Dec2024 04:22:45.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Teletor's Telecore]
-[05Dec2024 04:22:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3615.500000, -38.500000, 4676.500000]
-[05Dec2024 04:24:15.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Teletor
-[05Dec2024 04:24:24.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3642.500000, -45.500000, 4717.500000]
-[05Dec2024 04:24:30.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ferrouslime
-[05Dec2024 04:24:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3641.500000, -45.500000, 4715.500000]
-[05Dec2024 04:24:44.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ferrouslime
-[05Dec2024 04:25:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3643.500000, -46.500000, 4713.500000]
-[05Dec2024 04:25:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ferrouslime
-[05Dec2024 04:25:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3642.500000, -46.500000, 4715.500000]
-[05Dec2024 04:28:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was blown up by Creeper
-[05Dec2024 04:29:08.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3743.500000, -37.500000, 4808.500000]
-[05Dec2024 04:29:23.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Mirsade'/71241, l='ServerLevel[world]', x=-3736.60, y=-39.75, z=4806.23] died: Mirsade was slain by Juan123
-[05Dec2024 04:30:56.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
-[05Dec2024 04:31:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Magnetron
-[05Dec2024 04:32:07.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3676.500000, -42.500000, 4736.500000]
-[05Dec2024 04:33:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was doomed to fall by Teletor
-[05Dec2024 04:34:05.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Made Daneg32 a server operator]
-[05Dec2024 04:34:46.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -3326.500000, -23.500000, 4857.500000]
-[05Dec2024 04:34:47.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Teletor
-[05Dec2024 04:34:55.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3659.500000, -47.500000, 4703.500000]
-[05Dec2024 04:35:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Teletor
-[05Dec2024 04:35:41.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3667.500000, -51.500000, 4695.500000]
-[05Dec2024 04:36:21.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Mazdallier
-[05Dec2024 04:36:33.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3670.500000, -51.500000, 4689.500000]
-[05Dec2024 04:36:36.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Mazdallier
-[05Dec2024 04:36:36.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 04:36:44.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3670.500000, -51.500000, 4689.500000]
-[05Dec2024 04:36:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Mazdallier
-[05Dec2024 04:36:55.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3670.500000, -51.500000, 4689.500000]
-[05Dec2024 04:37:34.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> ta
-[05Dec2024 04:39:37.456] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-3711, y=-41, z=4618}
-[05Dec2024 04:43:47.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Teletor, they gave up
-[05Dec2024 04:44:16.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -3704.500000, -21.500000, 4646.500000]
-[05Dec2024 04:46:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
-[05Dec2024 04:47:15.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was slain by Juan123, they gave up
-[05Dec2024 04:47:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -3662.500000, -50.500000, 4584.500000]
-[05Dec2024 04:48:37.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Come on and Slam]
-[05Dec2024 04:51:23.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Teletor, they gave up
-[05Dec2024 04:51:53.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3639.500000, -52.500000, 4584.500000]
-[05Dec2024 04:54:09.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Teletor, they gave up
-[05Dec2024 04:54:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3642.500000, -49.500000, 4557.500000]
-[05Dec2024 04:58:26.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [An Alloy To Remember]
-[05Dec2024 04:58:47.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Come on and Slam]
-[05Dec2024 05:00:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3200.500000, 67.500000, 4388.500000]
-[05Dec2024 05:00:36.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 hit the ground too hard, they gave up
-[05Dec2024 05:09:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 05:10:07.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Iron Golem, they gave up
-[05Dec2024 05:11:08.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Bloody Stream]
-[05Dec2024 05:12:13.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 did not like the sun
-[05Dec2024 05:12:13.155] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23168!/:2.0.2.3]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 05:12:13.158] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 05:12:13.159] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 05:12:13.160] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 05:12:13.161] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 05:13:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to -3195.500000, 69.500000, 4416.500000]
-[05Dec2024 05:14:08.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Danica'/86031, l='ServerLevel[world]', x=-3197.56, y=71.01, z=4429.59] died, message: 'Danica was slain by Daneg32'
-[05Dec2024 05:14:08.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Danica'/86031, l='ServerLevel[world]', x=-3197.56, y=71.01, z=4429.59] died: Danica was slain by Daneg32
-[05Dec2024 05:16:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3575.500000, -8.500000, 4646.500000]
-[05Dec2024 05:16:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Daneg32]
-[05Dec2024 05:17:15.186] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vidosava}[style={}] has been infected
-[05Dec2024 05:25:52.447] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -12788 -60 -2254 in 3s
-[05Dec2024 05:27:08.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Once Upon a Cave]
-[05Dec2024 05:27:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has completed the challenge [Hunted]
-[05Dec2024 05:28:47.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [I always come back]
-[05Dec2024 05:29:30.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 05:30:00.181] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -1982 -60 -2548 in 2s
-[05Dec2024 05:30:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [The Journey Begins]
-[05Dec2024 05:31:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 05:32:34.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
-[05Dec2024 05:32:53.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
-[05Dec2024 05:35:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3036.500000, 74.500000, 4372.500000]
-[05Dec2024 05:35:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3100.500000, 68.500000, 4350.500000]
-[05Dec2024 05:36:15.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was shot by Skeleton, they gave up
-[05Dec2024 05:37:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
-[05Dec2024 05:37:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3174.500000, 68.500000, 4383.500000]
-[05Dec2024 05:37:57.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Book of Monsters]
-[05Dec2024 05:37:59.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
-[05Dec2024 05:38:12.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3170.500000, 68.500000, 4377.500000]
-[05Dec2024 05:38:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Iron Golem, they gave up
-[05Dec2024 05:38:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Iron Golem, they gave up
-[05Dec2024 05:38:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
-[05Dec2024 05:39:24.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Vampire Hunter Trainer
-[05Dec2024 05:39:57.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anka'/85913, l='ServerLevel[world]', x=-3188.02, y=47.00, z=4416.19] died, message: 'Anka hit the ground too hard whilst trying to escape Zombie'
-[05Dec2024 05:39:57.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anka'/85913, l='ServerLevel[world]', x=-3188.02, y=47.00, z=4416.19] died: Anka was doomed to fall by Zombie
-[05Dec2024 05:40:58.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3207.500000, 80.500000, 4433.500000]
-[05Dec2024 05:41:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2958.500000, 67.500000, 4402.500000]
-[05Dec2024 05:42:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3189.500000, 69.500000, 4386.500000]
-[05Dec2024 05:43:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [You Look Like a Good Joe]
-[05Dec2024 05:44:00.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Set the time to 13000]
-[05Dec2024 05:44:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
-[05Dec2024 05:46:57.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
-[05Dec2024 05:48:04.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 fell from a high place, they gave up
-[05Dec2024 05:48:08.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Krešo'/85918, l='ServerLevel[world]', x=-3132.11, y=66.56, z=4386.97] died, message: 'Krešo was slain by Daneg32'
-[05Dec2024 05:48:08.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Krešo'/85918, l='ServerLevel[world]', x=-3132.11, y=66.56, z=4386.97] died: Krešo was slain by Daneg32
-[05Dec2024 05:48:45.637] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jerko}[style={}] has been infected
-[05Dec2024 05:50:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3171.500000, 68.500000, 4377.500000]
-[05Dec2024 05:51:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [What a Deal!]
-[05Dec2024 05:52:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
-[05Dec2024 05:55:52.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 suffocated in a wall
-[05Dec2024 05:57:59.735] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vidosava}[style={}] has been infected
-[05Dec2024 06:02:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
-[05Dec2024 06:02:43.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
-[05Dec2024 06:06:14.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
-[05Dec2024 06:08:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Bat Mode]
-[05Dec2024 06:09:22.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mandica'/99540, l='ServerLevel[world]', x=-3174.70, y=43.00, z=4395.49] died, message: 'Mandica was slain by Zombie'
-[05Dec2024 06:12:12.786] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Albin}[style={}] has been infected
-[05Dec2024 06:13:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Blood Cult]
-[05Dec2024 06:14:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Blood Cult]
-[05Dec2024 06:18:23.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daneg32> r
-[05Dec2024 06:18:53.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Splintering II]
-[05Dec2024 06:19:07.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [You Monster...]
-[05Dec2024 06:20:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 06:20:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Splintering II]
-[05Dec2024 06:20:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 06:21:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 was killed by Juan123 using magic, they gave up
-[05Dec2024 06:21:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 06:23:12.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jasmina'/97035, l='ServerLevel[world]', x=-3188.60, y=68.00, z=4348.19] died, message: 'Jasmina hit the ground too hard'
-[05Dec2024 06:24:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 fell from a high place, they gave up
-[05Dec2024 06:24:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 burned to ashes, they gave up
-[05Dec2024 06:29:37.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Iron Golem
-[05Dec2024 06:31:07.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned to stone by Daneg32
-[05Dec2024 06:33:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 was turned into gorgonzola by Daneg32
-[05Dec2024 06:33:05.089] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Božena}[style={}] has been infected
-[05Dec2024 06:34:20.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -3218.500000, 64.500000, 4347.500000]
-[05Dec2024 06:36:04.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marina'/99608, l='ServerLevel[world]', x=-3191.33, y=67.94, z=4350.86] died, message: 'Marina was slain by Juan123'
-[05Dec2024 06:36:10.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grozdana'/85917, l='ServerLevel[world]', x=-3195.55, y=70.00, z=4328.72] died, message: 'Grozdana was slain by Juan123'
-[05Dec2024 06:36:10.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Grozdana'/85917, l='ServerLevel[world]', x=-3195.55, y=70.00, z=4328.72] died: Grozdana was slain by Juan123
-[05Dec2024 06:36:12.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Božena'/99182, l='ServerLevel[world]', x=-3189.40, y=70.75, z=4315.72] died, message: 'Božena was slain by Juan123'
-[05Dec2024 06:36:16.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karmen'/85342, l='ServerLevel[world]', x=-3189.94, y=70.00, z=4324.45] died, message: 'Karmen was slain by Juan123'
-[05Dec2024 06:36:16.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Karmen'/85342, l='ServerLevel[world]', x=-3189.94, y=70.00, z=4324.45] died: Karmen was slain by Juan123
-[05Dec2024 06:36:35.566] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marko'/85989, l='ServerLevel[world]', x=-3189.15, y=70.00, z=4346.02] died, message: 'Marko was slain by Juan123'
-[05Dec2024 06:36:35.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marko'/85989, l='ServerLevel[world]', x=-3189.15, y=70.00, z=4346.02] died: Marko was slain by Juan123
-[05Dec2024 06:36:40.012] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mile'/99259, l='ServerLevel[world]', x=-3172.31, y=69.00, z=4351.78] died, message: 'Mile was slain by Juan123'
-[05Dec2024 06:37:04.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Đulijana'/99303, l='ServerLevel[world]', x=-3175.30, y=68.00, z=4356.65] died, message: 'Đulijana was slain by Juan123'
-[05Dec2024 06:37:49.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zlata'/85901, l='ServerLevel[world]', x=-3181.56, y=69.00, z=4351.27] died, message: 'Zlata was slain by Juan123'
-[05Dec2024 06:37:49.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zlata'/85901, l='ServerLevel[world]', x=-3181.56, y=69.00, z=4351.27] died: Zlata was slain by Juan123
-[05Dec2024 06:38:25.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bara'/99097, l='ServerLevel[world]', x=-3215.28, y=65.00, z=4357.69] died, message: 'Bara was slain by Juan123'
-[05Dec2024 06:39:32.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nediljko'/99036, l='ServerLevel[world]', x=-3238.81, y=65.00, z=4377.85] died, message: 'Nediljko was slain by Juan123'
-[05Dec2024 06:39:57.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vidosava'/99038, l='ServerLevel[world]', x=-3189.50, y=69.00, z=4399.30] died, message: 'Vidosava was slain by Juan123'
-[05Dec2024 06:40:19.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elvis'/109462, l='ServerLevel[world]', x=-3174.88, y=68.00, z=4340.29] died, message: 'Elvis was killed by Juan123 using magic'
-[05Dec2024 06:40:21.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Senad'/85898, l='ServerLevel[world]', x=-3179.60, y=70.00, z=4344.94] died, message: 'Senad was slain by Juan123'
-[05Dec2024 06:40:21.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Senad'/85898, l='ServerLevel[world]', x=-3179.60, y=70.00, z=4344.94] died: Senad was slain by Juan123
-[05Dec2024 06:40:28.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mate'/85969, l='ServerLevel[world]', x=-3180.14, y=70.00, z=4344.62] died, message: 'Mate was slain by Juan123'
-[05Dec2024 06:40:28.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mate'/85969, l='ServerLevel[world]', x=-3180.14, y=70.00, z=4344.62] died: Mate was slain by Juan123
-[05Dec2024 06:43:09.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Danira'/109678, l='ServerLevel[world]', x=-3170.80, y=68.00, z=4340.76] died, message: 'Danira was slain by Juan123'
-[05Dec2024 06:43:28.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Antica'/109335, l='ServerLevel[world]', x=-3188.80, y=68.00, z=4362.25] died, message: 'Antica was slain by Juan123'
-[05Dec2024 06:43:33.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Biserka, they gave up
-[05Dec2024 06:44:14.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zvonimir'/110609, l='ServerLevel[world]', x=-3184.04, y=68.94, z=4378.56] died, message: 'Zvonimir was slain by Juan123'
-[05Dec2024 06:44:19.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ozren'/109963, l='ServerLevel[world]', x=-3190.70, y=68.23, z=4368.35] died, message: 'Ozren was slain by Juan123'
-[05Dec2024 06:44:31.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 was slain by Daneg32, they gave up
-[05Dec2024 06:46:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 burned to ashes
-[05Dec2024 06:49:55.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Saša'/109264, l='ServerLevel[world]', x=-3123.28, y=66.00, z=4364.50] died, message: 'Saša was slain by Juan123'
-[05Dec2024 06:50:40.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 fell from a high place, they gave up
-[05Dec2024 06:50:42.685] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Albin}[style={}] has been infected
-[05Dec2024 06:52:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 06:53:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Juan123 blew up, they gave up
-[05Dec2024 06:54:02.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 blew up, they gave up
-[05Dec2024 06:55:06.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Daneg32 burned to ashes, they gave up
-[05Dec2024 06:56:22.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 did not like the sun
-[05Dec2024 06:56:22.350] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 06:56:22.352] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
-java.lang.Throwable: null
-	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.10.jar%23166!/:1.20.1-1.10.10]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Dec2024 07:05:08.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tihomir'/110704, l='ServerLevel[world]', x=-3152.33, y=67.00, z=4350.47] died, message: 'Tihomir was slain by Juan123'
-[05Dec2024 07:08:58.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/110769, l='ServerLevel[world]', x=-3208.71, y=69.00, z=4327.27] died, message: 'Unemployed was slain by Vampire Hunter'
-[05Dec2024 07:09:11.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/109159, l='ServerLevel[world]', x=-3200.71, y=70.00, z=4335.73] died, message: 'Unemployed was slain by Vampire Hunter'
-[05Dec2024 07:09:11.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/110078, l='ServerLevel[world]', x=-3172.42, y=53.75, z=4421.30] died, message: 'Unemployed was slain by Vampire Hunter'
-[05Dec2024 07:09:24.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/110512, l='ServerLevel[world]', x=-3235.06, y=65.00, z=4356.94] died, message: 'Unemployed was slain by Vampire Hunter'
-[05Dec2024 07:09:28.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Butcher'/109422, l='ServerLevel[world]', x=-3177.50, y=69.00, z=4344.79] died, message: 'Butcher was slain by Vampire Hunter'
-[05Dec2024 07:10:17.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/99127, l='ServerLevel[world]', x=-3185.36, y=68.00, z=4362.64] died, message: 'Farmer was slain by Vampire Hunter'
-[05Dec2024 07:10:20.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Butcher'/109796, l='ServerLevel[world]', x=-3184.78, y=69.00, z=4354.56] died, message: 'Butcher was slain by Vampire Hunter'
-[05Dec2024 07:18:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daneg32: Teleported Daneg32 to Juan123]
-[05Dec2024 07:18:21.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
-[05Dec2024 07:18:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
-[05Dec2024 07:23:31.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/107976, l='ServerLevel[world]', x=-3153.33, y=67.00, z=4356.55] died, message: 'Unemployed was slain by Iron Golem'
-[05Dec2024 07:23:34.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/99435, l='ServerLevel[world]', x=-3152.93, y=67.00, z=4356.51] died, message: 'Farmer was slain by Iron Golem'
-[05Dec2024 07:23:35.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/117065, l='ServerLevel[world]', x=-3152.69, y=67.00, z=4356.51] died, message: 'Unemployed was slain by Iron Golem'
-[05Dec2024 07:25:10.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daneg32 lost connection: Disconnected
-[05Dec2024 07:25:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 left the game
+[13Dec2024 03:13:20.249] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[13Dec2024 03:13:20.260] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
+[13Dec2024 03:13:20.289] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[13Dec2024 03:13:20.345] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[13Dec2024 03:13:20.362] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[13Dec2024 03:13:20.367] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[13Dec2024 03:13:20.404] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3456 advancements
+[13Dec2024 03:13:20.413] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[13Dec2024 03:13:20.417] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[13Dec2024 03:13:20.478] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 82 skill nodes
+[13Dec2024 03:13:20.482] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[13Dec2024 03:13:21.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Dec2024 03:13:21.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Dec2024 03:13:21.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Dec2024 03:13:21.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Dec2024 03:13:21.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Dec2024 03:13:21.965] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Dec2024 03:13:22.029] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Dec2024 03:13:22.030] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Dec2024 03:13:22.030] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Dec2024 03:13:22.030] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Dec2024 03:13:22.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Dec2024 03:13:22.542] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[13Dec2024 03:13:29.422] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[13Dec2024 03:13:29.435] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[13Dec2024 03:13:29.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Dec2024 03:13:32.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:32.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:32.712] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:32.734] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:32.752] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:32.760] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:32.762] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:32.949] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:33.449] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:33.940] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 03:13:34.440] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[13Dec2024 03:13:34.940] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[13Dec2024 03:13:35.332] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5893 ms
+[13Dec2024 03:13:35.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.289s)! For help, type "help"
+[13Dec2024 03:13:35.401] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Dec2024 03:13:35.407] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[13Dec2024 03:13:35.407] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[13Dec2024 03:13:35.505] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 60125 bytes (in 7 string chunks with the size of 10000)
