@@ -3734,3 +3734,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 04:39:40.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Dec2024 04:41:52.616] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity naturalist:firefly
 [13Dec2024 04:43:25.111] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Pero}[style={}] has been infected
+[13Dec2024 04:43:56.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daneg32 has made the advancement [Friendship Found]
+[13Dec2024 04:44:40.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 04:44:40.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 04:44:53.163] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Zita}[style={}] has been infected
+[13Dec2024 04:44:59.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zita'/117, l='ServerLevel[world]', x=-3186.58, y=71.56, z=4327.82] died, message: 'Zita was slain by Zombie'
+[13Dec2024 04:44:59.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zita'/117, l='ServerLevel[world]', x=-3186.58, y=71.56, z=4327.82] died: Zita was slain by Zombie
+[13Dec2024 04:47:00.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/52, l='ServerLevel[world]', x=-3155.52, y=66.00, z=4375.01] died, message: 'Unemployed was slain by Daneg32'
+[13Dec2024 04:47:07.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/92, l='ServerLevel[world]', x=-3170.00, y=67.00, z=4386.10] died, message: 'Unemployed was slain by Daneg32'
+[13Dec2024 04:49:40.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 04:49:40.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 04:50:53.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/83, l='ServerLevel[world]', x=-3149.07, y=67.54, z=4357.46] died, message: 'Unemployed was slain by Daneg32'
+[13Dec2024 04:51:01.999] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/4060, l='ServerLevel[world]', x=-3155.64, y=66.00, z=4370.51] died, message: 'Unemployed was slain by Daneg32'
+[13Dec2024 04:51:14.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/132, l='ServerLevel[world]', x=-3151.70, y=67.00, z=4356.57] died, message: 'Unemployed was slain by Daneg32'

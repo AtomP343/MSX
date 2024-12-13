@@ -5311,6 +5311,12 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-12-13 04:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 04:37:35 +0000"
